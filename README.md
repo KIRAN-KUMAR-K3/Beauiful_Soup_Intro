@@ -1,4 +1,3 @@
-Certainly! Below is a more polished and attractive version of your README.md file. Please note that this assumes you already have a GitHub repository set up with your Beautiful Soup project.
 
 ---
 
